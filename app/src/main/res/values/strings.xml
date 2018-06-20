@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSONFetcher</string>
+    <string name="temperature">Temperature :</string>
+    <string name="temp">-</string>
+    <string name="description">Weather Description :</string>
+    <string name="button">Get Weather</string>
+</resources>
